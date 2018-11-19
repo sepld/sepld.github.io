@@ -6,18 +6,19 @@
     <description>Recent content in Posts on 凡人的小蚂蚱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Nov 2018 13:37:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Nov 2018 15:32:53 +0800</lastBuildDate>
     
 	<atom:link href="http://sepld.github.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Demo</title>
-      <link>http://sepld.github.com/post/demo/</link>
-      <pubDate>Mon, 05 Nov 2018 13:37:07 +0800</pubDate>
+      <title>First</title>
+      <link>http://sepld.github.com/post/first/</link>
+      <pubDate>Mon, 19 Nov 2018 15:32:53 +0800</pubDate>
       
-      <guid>http://sepld.github.com/post/demo/</guid>
-      <description></description>
+      <guid>http://sepld.github.com/post/first/</guid>
+      <description>This is a Test !
+first hello world</description>
     </item>
     
   </channel>
