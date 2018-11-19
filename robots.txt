@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://sepld.github.com/sitemap.xml
