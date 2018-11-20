@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sepld</title>
-    <link>http://sepld.github.com/post/</link>
-    <description>Recent content in Posts on Sepld</description>
+    <title>以太坊 on Sepld</title>
+    <link>http://sepld.github.com/categories/%E4%BB%A5%E5%A4%AA%E5%9D%8A/</link>
+    <description>Recent content in 以太坊 on Sepld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Nov 2018 04:29:09 -0800</lastBuildDate>
     
-	<atom:link href="http://sepld.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sepld.github.com/categories/%E4%BB%A5%E5%A4%AA%E5%9D%8A/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
